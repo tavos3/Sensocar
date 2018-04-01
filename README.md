@@ -1,0 +1,2 @@
+# Sensocar
+Se trata de un proyecto donde se hace un prototipo con dos sensores para un automóvil que van colocados en puertas y cristales del mismo y al ser activados envían una notificación al teléfono móvil de lo que eta ocurriendo, los sensores pueden ser activados y desactivados por medio de una app desarrollada en android studio, como se trata de un proyecto en primera fase aún no puede estar muy completo ya que es algo básico y funcional pero con el tiempo se ira mejorando.
